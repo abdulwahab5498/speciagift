@@ -43,8 +43,8 @@ document.addEventListener("DOMContentLoaded", () => {
         setTimeout(() => { heart.remove(); }, 2500);
     }
 
-    // Realistic Long Letter Content
-    const letterToKainat = `Kuch log kehte hain ke coding me koi emotions nahi hote, bas rukhe-sukhe logic hote hain... Lekin jab se tum meri zindagi me aayi ho, mere har code ka matlab badal gaya hai. \n\nKainat, tum bilkul apne naam ki tarah ho—meri poori duniya, jisme har ek sitara tumhari muskurahat se chamakta hai. Agar main koi program likhoon, to uski sab se khoobsurat line tum ho. Agar main koi web page design karoon, to uski saari raunaq tumse hai. Tumhe sochna kisi sukoon se kam nahi hai, aur tumse baat karne ki ek koshish bhi mere dil ki dharkan ko tez kar deti hai.\n\nYe digital gulab shayad waqt ke sath purana na ho, bilkul us jazbe ki tarah jo mere dil me tumhare liye hai. Main bas ye kehna chahta hoon ke tum mere liye bohot zyada special ho, aur meri is choti si kainaat ka sab se haseen hissa ho.\n\nAlways & forever yours. ♥`;
+    // Realistic Letter Content for Kainat (Genuine & Respectful)
+    const letterToKainat = `Kuch log kehte hain ke coding me sirf logic hota hai, jazbaat nahi... Lekin sach ye hai ke jag se maine tumhe jana hai, mere har code aur har khayal ko ek nayi raunaq mil gayi hai.\n\nKainat, main nahi jaanta ke tum mere baare me kya sochti ho, aur main tum par koi zabardasti bhi nahi karna chahta. Mohabbat ya pasand aisi cheez nahi jo zor-zabardasti se paida ho. Lekin main bas itna jaanta hoon ke tum mere liye bohot zyada special ho. Tumhari ek muskurahat, tumhari baatein, aur tumhara meri is choti si kainaat me hona hi mere liye sukoon ka baais hai.\n\nYe digital gulab mere isi khamosh jazbe aur respect ki ek choti si nishani hai jo hamesha aisi hi rahegi. Main bas chahta hoon ke tum jab bhi is page ko dekho, to tumhe ehsaas ho ke is duniya me koi hai jo tumhari bohot dil se qadar karta hai aur tumhe muskurate hue dekhna chahta hai.\n\nTumhara hamesha khair-khwah. ♥`;
     
     const readBtn = document.getElementById('readBtn');
     readBtn.addEventListener('click', () => {
